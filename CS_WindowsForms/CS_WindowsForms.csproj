@@ -58,6 +58,36 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="laba23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laba23.Designer.cs">
+      <DependentUpon>laba23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="laba23_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laba23_2.Designer.cs">
+      <DependentUpon>laba23_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="laba23_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laba23_3.Designer.cs">
+      <DependentUpon>laba23_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Laba23_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Laba23_4.Designer.cs">
+      <DependentUpon>Laba23_4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="laba28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laba28.Designer.cs">
+      <DependentUpon>laba28.cs</DependentUpon>
+    </Compile>
     <Compile Include="laba30.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,11 +145,26 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="laba23.resx">
+      <DependentUpon>laba23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laba23_2.resx">
+      <DependentUpon>laba23_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laba23_3.resx">
+      <DependentUpon>laba23_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Laba23_4.resx">
+      <DependentUpon>Laba23_4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="laba26.resx">
       <DependentUpon>laba26.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="laba27.resx">
       <DependentUpon>laba27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laba28.resx">
+      <DependentUpon>laba28.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="laba30.resx">
       <DependentUpon>laba30.cs</DependentUpon>

@@ -34,5 +34,17 @@ namespace CS_WindowsForms
             laba30 from = new laba30();
             Navigate(this, from);
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            laba23 form = new laba23();
+            Navigate(this, form);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            laba28 laba28 = new laba28();
+            Navigate(this, laba28);
+        }
     }
 }
