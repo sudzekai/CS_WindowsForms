@@ -88,6 +88,7 @@
     <Compile Include="laba28.Designer.cs">
       <DependentUpon>laba28.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="laba28_2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -100,6 +101,8 @@
     <Compile Include="laba28_3.Designer.cs">
       <DependentUpon>laba28_3.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> 25ca522a66923695677b882e91011da938a9e1ac
     <Compile Include="laba30.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -178,12 +181,15 @@
     <EmbeddedResource Include="laba28.resx">
       <DependentUpon>laba28.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="laba28_2.resx">
       <DependentUpon>laba28_2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="laba28_3.resx">
       <DependentUpon>laba28_3.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> 25ca522a66923695677b882e91011da938a9e1ac
     <EmbeddedResource Include="laba30.resx">
       <DependentUpon>laba30.cs</DependentUpon>
     </EmbeddedResource>

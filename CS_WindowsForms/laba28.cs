@@ -4,7 +4,11 @@ using System.Windows.Forms;
 
 namespace CS_WindowsForms
 {
+<<<<<<< HEAD
     public partial class laba28 : template
+=======
+    public partial class laba28 : Form
+>>>>>>> 25ca522a66923695677b882e91011da938a9e1ac
     {
         public laba28()
         {
@@ -71,6 +75,7 @@ namespace CS_WindowsForms
             return;
         }
 
+<<<<<<< HEAD
         private void Task2Btn_Click(object sender, EventArgs e)
         {
             laba28_2 form = new laba28_2();
@@ -82,5 +87,7 @@ namespace CS_WindowsForms
             laba28_3 laba28_3 = new laba28_3();
             Navigate(this, laba28_3);
         }
+=======
+>>>>>>> 25ca522a66923695677b882e91011da938a9e1ac
     }
 }
